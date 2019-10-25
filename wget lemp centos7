@@ -1,1 +1,2 @@
-
+#
+wget https://github.com/redshadow900/testing1/blob/master/lemp_centos7.sh && sh lemp_centos7.sh
