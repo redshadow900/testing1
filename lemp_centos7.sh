@@ -111,10 +111,10 @@ echo "------------------------------------------------------------------"
 	
 	echo "Install complete!"
 	echo "------------------------------------------------------------------"
-	echo "/// PLEASE REPORT ERROR TO "
-	echo " https://github.com/redshadow900 ///"
+	echo "!!!!!!!!!!!!!!!!!!!!! PLEASE REPORT ERROR TO !!!!!!!!!!!!!!!!!!!!!"
+	echo "!!!!!!!!!!!!!!!!! https://github.com/redshadow900 !!!!!!!!!!!!!!!!"
 	echo "------------------------------------------------------------------"
-	sleep 10
+	sleep 5
 	
 	echo "exiting installation."
 	sleep 1
